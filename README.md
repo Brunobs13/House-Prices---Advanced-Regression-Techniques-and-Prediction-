@@ -40,3 +40,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn lightgbm xgboost catboo
 
 ## Conclusion
 The project successfully implements a range of regression models and blends their predictions to achieve better performance. The final predictions are saved in submission_regression.csv and submission.csv for submission to the Kaggle competition.
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+
